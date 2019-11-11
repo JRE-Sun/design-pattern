@@ -19,4 +19,4 @@
 * 接口隔离原则（Interface Segregation Principle）
 * 依赖反转原则（Dependency Inversion Principle）
 
-![](https://github.com/WuLianN/design-pattern/blob/master/images/32.png)
+![](https://github.com/WuLianN/design-pattern/blob/master/images/23.png)
